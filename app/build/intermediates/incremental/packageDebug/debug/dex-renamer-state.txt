@@ -1,0 +1,4 @@
+#Mon Jan 15 20:31:40 KST 2018
+base.0=C\:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -141,7 +141,7 @@ public class FirstTab extends Fragment implements Runnable, OnClickListener, OnS
 		{
 			if( mListItems.size() == 0 )
 			{
-				toastMessage("����Ʈ�� �����ϴ�.");
+				toastMessage("재생할 곡이 없습니다");
 				return;
 			}
 			if( mMediaPause )
@@ -248,25 +248,25 @@ public class FirstTab extends Fragment implements Runnable, OnClickListener, OnS
 		case R.id.listPlayRandom:
 			if( isChecked )
 			{
-				((CheckBox)buttonView).setText("���� ���");
-				toastMessage("���� ���� ����Դϴ�.");
+				((CheckBox)buttonView).setText("랜덤재생");
+				toastMessage("랜덤재생");
 			}
 			else
 			{
-				((CheckBox)buttonView).setText("���� ���");
-				toastMessage("���� ���� ����Դϴ�.");
+				((CheckBox)buttonView).setText("그냥재생");
+				toastMessage("그냥재생");
 			}
 			break;
 		case R.id.listPlayLoop:
 			if( isChecked )
 			{
-				((CheckBox)buttonView).setText("���� �ݺ�");
-				toastMessage("���� �Ѱ� �ݺ� ����Դϴ�.");
+				((CheckBox)buttonView).setText("반복재생");
+				toastMessage("반복재생.");
 			}
 			else
 			{
-				((CheckBox)buttonView).setText("�Ѱ� �ݺ�");
-				toastMessage("���� ���� �ݺ� ����Դϴ�.");
+				((CheckBox)buttonView).setText("반복재생해제");
+				toastMessage("반복재생해제");
 			}
 			break;
 		default:
@@ -282,7 +282,7 @@ public class FirstTab extends Fragment implements Runnable, OnClickListener, OnS
 		case R.id.listPlayPlaying:
 			if( mListItems.size() == 0 )
 			{
-				toastMessage("����Ʈ�� �����ϴ�.");
+				toastMessage("재생");
 				return;
 			}
 			startPlaying(mListNowPlaying);

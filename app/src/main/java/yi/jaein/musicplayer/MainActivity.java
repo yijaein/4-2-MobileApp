@@ -16,6 +16,7 @@ import android.view.Menu;
 import android.widget.Toast;
 /*
 	2018_01_15 다시 시작
+	2018_01_17 이재인 
  */
 
 public class MainActivity extends FragmentActivity {
@@ -34,7 +35,7 @@ public class MainActivity extends FragmentActivity {
 	 * The {@link ViewPager} that will host the section contents.
 	 */
 	ViewPager mViewPager;
-	
+
 	public static Context mMainContext;
 
 	@Override
@@ -69,12 +70,12 @@ public class MainActivity extends FragmentActivity {
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	
+
 	public void updateMusicList() {
 		// TODO Auto-generated method stub
 		((FirstTab)mSectionsPagerAdapter.getItem(0)).mListItems = ((SecondTab)mSectionsPagerAdapter.getItem(1)).GetListItems();
 	}
-	
+
 	@SuppressLint("SdCardPath")
 	private void deleteArtAlbum() {
 		// TODO Auto-generated method stub
@@ -91,7 +92,7 @@ public class MainActivity extends FragmentActivity {
 					f.delete();
 			}
 	}
-	
+
 	@Override
 	public boolean onKeyDown(int keyCode, KeyEvent event) {
 		// TODO Auto-generated method stub
@@ -111,10 +112,10 @@ public class MainActivity extends FragmentActivity {
 	public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
 		private Fragment firstTabFragment, secondTabFragment;
-		
+
 		public SectionsPagerAdapter(FragmentManager fm) {
 			super(fm);
-			
+
 			firstTabFragment = new FirstTab();
 			secondTabFragment = new SecondTab();
 		}

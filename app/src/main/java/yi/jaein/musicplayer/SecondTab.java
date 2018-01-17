@@ -107,7 +107,7 @@ public class SecondTab extends Fragment implements OnClickListener, OnItemClickL
 				bOverlap = true;
 				break;
 			}
-		if( !bOverlap )			// �ߺ����� ���� ���븸 �߰�;
+		if( !bOverlap )			//
 		{
 			Uri imageUri = ContentUris.withAppendedId(Uri.parse("content://media/external/audio/albumart"), cursor.getInt(cursor.getColumnIndex(MediaStore.Audio.Media.ALBUM_ID)));
 			String title = cursor.getString(cursor.getColumnIndex(MediaStore.Audio.Media.TITLE));

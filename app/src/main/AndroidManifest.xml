@@ -21,9 +21,9 @@
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
         <activity
             android:name="yi.jaein.musicplayer.FirstTab"
@@ -38,6 +38,7 @@
             android:configChanges="orientation|keyboardHidden"
             android:label="@string/app_name_explorer"
             android:screenOrientation="portrait" />
+
     </application>
 
 </manifest>

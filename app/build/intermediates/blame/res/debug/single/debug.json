@@ -4,20 +4,20 @@
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_secondtab.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\list_secondtab.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_secondtab.xml.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\layout\\list_secondtab.xml"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_d.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/d.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_empty_albumart.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/empty_albumart.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_a.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/a.mp3"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
@@ -26,18 +26,6 @@
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_view_border.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/view_border.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_secondtab.xml.flat",
@@ -56,36 +44,16 @@
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_secondtab.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_secondtab.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_new_activitry.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/new_activitry.xml"
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_e.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/e.mp3"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_list_secondtab.xml.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/list_secondtab.xml"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_explorer.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_explorer.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_activity_firsttab.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/activity_firsttab.xml"
-    },
-    {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
@@ -108,24 +76,20 @@
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/activity_explorer.xml"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_c.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/c.png"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_activity.xml.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\login_activity.xml"
     },
     {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firsttab.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_firsttab.xml"
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_b.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/b.mp3"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_activity_secondtab.xml.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/activity_secondtab.xml"
-    },
-    {
-        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_explorer.xml.flat",
@@ -136,8 +100,104 @@
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_f.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/f.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_secondtab.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\list_secondtab.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_f.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/f.mp3"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_b.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/b.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_asmrplayer.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/asmrplayer.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_view_border.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/view_border.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_secondtab.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_secondtab.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_c.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/c.mp3"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_explorer.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_explorer.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/layout_activity_firsttab.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/layout/activity_firsttab.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_e.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/e.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firsttab.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\layout\\activity_firsttab.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_a.png.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/a.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_background.jpg.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/drawable-xhdpi/background.jpg"
+    },
+    {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
         "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\MP3 Player1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_chacha.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/chacha.mp3"
+    },
+    {
+        "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/res/merged/debug/raw_d.mp3.flat",
+        "source": "/Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/res/raw/d.mp3"
     },
     {
         "merged": "/Users/a303-1/Downloads/4-2-MobileApp-master/C:\\Users\\Jan\\Desktop\\Intern-master\\MP3 Player1\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_border.xml.flat",

@@ -14,9 +14,16 @@ import android.support.v4.view.ViewPager;
 import android.view.KeyEvent;
 import android.view.Menu;
 import android.widget.Toast;
+
+import yi.jaein.musicplayer.concrete.RecordFindCreator;
+import yi.jaein.musicplayer.concrete.RecordPlayerCreator;
+import yi.jaein.musicplayer.framework.Record;
+import yi.jaein.musicplayer.framework.RecordCreator;
 /*
 	2018_01_15 다시 시작
-	2018_01_17 이재인 
+	2018_01_17 이재인
+	2018_01_18 이재인 팩토리메서드패턴을 적용해 보고 있다
+
  */
 
 public class MainActivity extends FragmentActivity {
@@ -62,6 +69,19 @@ public class MainActivity extends FragmentActivity {
 		mMainContext = this;
 		deleteArtAlbum();
 		Toast.makeText(mMainContext, "알림", Toast.LENGTH_SHORT).show();
+
+		RecordCreator creator;
+		Record record;
+
+		creator = new RecordPlayerCreator();
+		record=creator.create();
+
+		creator = new RecordFindCreator();
+		creator.create();
+
+		record.record();
+
+
 	}
 
 	@Override

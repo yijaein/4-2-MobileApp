@@ -14,7 +14,7 @@ public class RecordFindCreator extends RecordCreator{
 
     @Override
     protected Record recordAsmr() {
-        System.out.print("녹음");
+        Log.d("Log " ,"녹음");
         return new RecordFind();
     }
 
@@ -25,12 +25,12 @@ public class RecordFindCreator extends RecordCreator{
 
     @Override
     protected void findRecordedAsmr() {
-
+        Log.d("Log " ,"녹음한 걸 찾는다");
     }
 
     @Override
     protected void playAsmr() {
-
+        Log.d("Log " ,"재생");
 
     }
 }

@@ -1,4 +1,4 @@
-#Thu Jan 18 12:35:21 KST 2018
-base.0=/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/transforms/dexMerger/debug/5
+#Mon Jan 22 11:59:55 KST 2018
+base.0=/Users/a303-1/Downloads/4-2-MobileApp-master/app/build/intermediates/transforms/dexMerger/debug/23
 path.0=classes.dex
 renamed.0=classes.dex

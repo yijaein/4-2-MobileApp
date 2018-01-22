@@ -23,24 +23,15 @@ import yi.jaein.musicplayer.framework.RecordCreator;
 	2018_01_15 다시 시작
 	2018_01_17 이재인
 	2018_01_18 이재인 팩토리메서드패턴을 적용해 보고 있다
+	2018_01_22 이재인 팩튜리메서드패턴 -> 싱글턴
 
  */
 
 public class MainActivity extends FragmentActivity {
 
-	/**
-	 * The {@link android.support.v4.view.PagerAdapter} that will provide
-	 * fragments for each of the sections. We use a
-	 * {@link android.support.v4.app.FragmentPagerAdapter} derivative, which
-	 * will keep every loaded fragment in memory. If this becomes too memory
-	 * intensive, it may be best to switch to a
-	 * {@link android.support.v4.app.FragmentStatePagerAdapter}.
-	 */
+
 	public SectionsPagerAdapter mSectionsPagerAdapter;
 
-	/**
-	 * The {@link ViewPager} that will host the section contents.
-	 */
 	ViewPager mViewPager;
 
 	public static Context mMainContext;
@@ -70,16 +61,15 @@ public class MainActivity extends FragmentActivity {
 		deleteArtAlbum();
 		Toast.makeText(mMainContext, "알림", Toast.LENGTH_SHORT).show();
 
-		RecordCreator creator;
-		Record record;
+		Recorder recorder  = Recorder.getInstancce();
+		recorder.startRecord();
+		recorder.stopRecord();
+		recorder.getVolume();
+		recorder.setVolume(10);
+		recorder.getVolume();
 
-		creator = new RecordPlayerCreator();
-		record=creator.create();
 
-		creator = new RecordFindCreator();
-		creator.create();
 
-		record.record();
 
 
 	}

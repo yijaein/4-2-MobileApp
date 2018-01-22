@@ -68,7 +68,8 @@ public final class R {
     public static final int activity_main=0x7f040002;
     public static final int activity_secondtab=0x7f040003;
     public static final int list_secondtab=0x7f040004;
-    public static final int view_border=0x7f040005;
+    public static final int recorder_activity=0x7f040005;
+    public static final int view_border=0x7f040006;
   }
   public static final class menu {
     public static final int main=0x7f050000;

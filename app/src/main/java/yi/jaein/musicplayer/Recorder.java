@@ -10,6 +10,7 @@ import java.io.IOException;
 
 /**
  * Created by a303-1 on 2018. 1. 22..
+ * 2018_1_22 이재인 싱글턴패턴
  */
 
 public class Recorder {

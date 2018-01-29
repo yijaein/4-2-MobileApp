@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
-INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:2:1-45:12
 	package
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml
@@ -52,7 +52,7 @@ ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidMani
 	android:name
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:13:22-68
 application
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:15:5-47:19
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:15:5-43:19
 	android:label
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:18:9-41
 	android:icon
@@ -62,48 +62,44 @@ ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidMani
 	android:theme
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:19:9-40
 activity#yi.jaein.musicplayer.MainActivity
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:20:9-25:20
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:20:9-28:20
 	android:label
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:22:13-45
 	android:name
 		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:21:13-61
-activity#yi.jaein.musicplayer.FirstTab
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:26:9-29:52
-	android:screenOrientation
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:29:13-49
-	android:configChanges
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:28:13-63
-	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:27:13-57
-activity#yi.jaein.musicplayer.SecondTab
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:30:9-33:52
-	android:screenOrientation
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:33:13-49
-	android:configChanges
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:32:13-63
-	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:31:13-58
-activity#yi.jaein.musicplayer.ExplorerActivity
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:34:9-38:52
-	android:screenOrientation
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:38:13-49
-	android:label
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:37:13-54
-	android:configChanges
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:36:13-63
-	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:35:13-65
-activity#yi.jaein.musicplayer.RecorderActivity
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:40:9-45:20
-	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:40:19-51
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:41:13-44:29
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:42:17-69
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:42:25-66
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:43:17-77
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:43:27-74
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:25:27-74
+activity#yi.jaein.musicplayer.FirstTab
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:30:13-57
+activity#yi.jaein.musicplayer.SecondTab
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:34:13-58
+activity#yi.jaein.musicplayer.ExplorerActivity
+ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:37:9-41:52
+	android:screenOrientation
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:40:13-54
+	android:configChanges
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from /Users/a303-1/Downloads/4-2-MobileApp-master/app/src/main/AndroidManifest.xml:38:13-65
